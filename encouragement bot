@@ -32,6 +32,9 @@ while True:
     if each word == "calm":
       feelings_list.append("calm")
       encouragement_list.append("thats great! to maintain this, maybe you can try meditating! it's a great habit!")
+    if each word == "hungry":
+      feelings_list.append("hungry")
+      encouragement_list.append("eating is very important")
       
   if counter == 0:
     
